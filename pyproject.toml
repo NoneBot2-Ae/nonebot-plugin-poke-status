@@ -5,8 +5,8 @@ description = "poke-status"
 license = "MIT"
 authors = ["alphaAE <a1226123914@gmail.com>"]
 readme = "README.md"
-homepage = "https://github.com/cscs181/QQ-GitHub-Bot/tree/master/src/plugins/nonebot_plugin_status"
-repository = "https://github.com/cscs181/QQ-GitHub-Bot/tree/master/src/plugins/nonebot_plugin_status"
+homepage = "https://github.com/NoneBot2-Ae/nonebot-plugin-poke-status"
+repository = "https://github.com/NoneBot2-Ae/nonebot-plugin-poke-status"
 keywords = ["nonebot2", "status"]
 
 [tool.poetry.dependencies]
